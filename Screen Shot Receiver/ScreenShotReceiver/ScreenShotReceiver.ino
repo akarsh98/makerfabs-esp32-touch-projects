@@ -22,8 +22,8 @@ Author:
 #include "src/TCPReceiver.h"
 
 //WIFI
-const char *ssid = "bina";
-const char *password = "iamakarsh";
+const char *ssid = "ssid here";
+const char *password = "pass here";
 
 struct LGFX_Config
 {
